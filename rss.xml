@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Benedicte Raae]]></title>
         <description><![CDATA[Benedicte Raae]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/benedicte-raae/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 20:52:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 08 Dec 2015 20:55:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/benedicte-raae/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Anmeldelse]]></title>
             <description><![CDATA[<article><h1>Anmeldelse</h1><p>På kjøleskapet hjemme har vi magneter! </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f094119eb8c5462b64e048e34dd7e475b8560884.jpg"></article>]]></description>
-            <link>undefinedanmeldelse/index.html</link>
+            <link>https://sticky9.com/no/magnets</link>
             <guid isPermaLink="false">186f1b54-fc46-4852-896b-8338cbc76d6d</guid>
-            <pubDate>Tue, 08 Dec 2015 20:52:17 GMT</pubDate>
+            <pubDate>Tue, 08 Dec 2015 20:55:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
