@@ -1,6 +1,6 @@
 name: Benedicte Raae
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.76827
 typography_spectrum: 0.56763
 title: Benedicte Raae
 cta:
@@ -22,8 +22,8 @@ color:
     - '#ff875f'
     - '#ff0000'
     - '#ffb79f'
-  brandStrength: 0.4679505580570549
+  brandStrength: 0.1875
   lightness: 0.875
-  saturation: 0.5625
+  saturation: 0.875
   rhythmicContrast: 0
 purpose: []
