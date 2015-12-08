@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: da
-starred: false
+starred: true
 keywords: []
 description: 'På kjøleskapet hjemme har vi magneter! '
-datePublished: '2015-12-08T21:06:00.135Z'
-dateModified: '2015-12-08T21:05:55.555Z'
+datePublished: '2015-12-08T21:07:02.497Z'
+dateModified: '2015-12-08T21:06:19.114Z'
 author: []
 related: []
 app_links: []
