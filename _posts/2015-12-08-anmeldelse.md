@@ -1,26 +1,26 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: 'https://sticky9.com/no/magnets'
 inLanguage: da
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-08T20:52:17.705Z'
-dateModified: '2015-12-08T20:51:57.654Z'
+datePublished: '2015-12-08T20:55:12.733Z'
+dateModified: '2015-12-08T20:55:07.883Z'
 author: []
 related: []
 app_links: []
 title: Anmeldelse
+sourcePath: _posts/2015-12-08-anmeldelse.md
+published: true
 authors: []
 publisher:
   name: Sticky9
   domain: sticky9.com
   url: 'https://sticky9.com'
   favicon: 'https://sticky9.com/favicon.ico?v=2'
-sourcePath: _posts/2015-12-08-anmeldelse.md
-published: true
-url: anmeldelse/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
