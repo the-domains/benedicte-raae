@@ -1,0 +1,28 @@
+name: Benedicte Raae
+favicon: null
+layout_spectrum: 0.11983563820831478
+typography_spectrum: 0.7421624935232103
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4679505580570549
+  lightness: 0.8980248623993248
+  saturation: 0.47184456582181156
+  rhythmicContrast: 0.041561911813914776
+purpose: []
